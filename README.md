@@ -2,9 +2,9 @@
 # 🚀 Introducción a Google Earth Engine: Desbloquea el Poder de la Geo-Información
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d21ff510eb81f1388203e651b2fb77ca/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![GitHub Stars](https://img.shields.io/github/stars/tu-usuario/tu-repositorio.svg?style=social&label=Stars)](https://github.com/ArmandoRodriguez/)
-[![GitHub Forks](https://img.shields.io/github/forks/tu-usuario/tu-repositorio.svg?style=social&label=Forks)](https://github.com/tu-usuario/tu-repositorio)
-[![License](https://img.shields.io/github/license/tu-usuario/tu-repositorio)](./LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/ArmandoRodriguez/GEE.svg?style=social&label=Stars)](https://github.com/ArmandoRodriguez/)
+[![GitHub Forks](https://img.shields.io/github/forks/ArmandoRodriguez/GEE.svg?style=social&label=Forks)](https://github.com/ArmandoRodriguez/GEE)
+[![License](https://img.shields.io/github/license/ArmandoRodriguez/GEE)](./LICENSE)
 
 **¿Listo para explorar el planeta a una escala sin precedentes?** Este repositorio contiene todo el material necesario para sumergirte en el fascinante mundo de **Google Earth Engine (GEE)**. Aprende a procesar y analizar vastos conjuntos de datos geoespaciales directamente en la nube, ¡sin necesidad de descargas masivas!
 
