@@ -2,7 +2,7 @@
 # 🚀 Introducción a Google Earth Engine: Desbloquea el Poder de la Geo-Información
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d21ff510eb81f1388203e651b2fb77ca/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![GitHub Stars](https://img.shields.io/github/stars/tu-usuario/tu-repositorio.svg?style=social&label=Stars)](https://github.com/tu-usuario/tu-repositorio)
+[![GitHub Stars](https://img.shields.io/github/stars/tu-usuario/tu-repositorio.svg?style=social&label=Stars)](https://github.com/ArmandoRodriguez/)
 [![GitHub Forks](https://img.shields.io/github/forks/tu-usuario/tu-repositorio.svg?style=social&label=Forks)](https://github.com/tu-usuario/tu-repositorio)
 [![License](https://img.shields.io/github/license/tu-usuario/tu-repositorio)](./LICENSE)
 
