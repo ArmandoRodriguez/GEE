@@ -7,7 +7,7 @@
 **Importante:** Se requiere una cuenta de GEE para exportar correctamente imágenes y productos de datos como activos de GEE o aplicaciones SEPAL utilizando GEE desde la interfaz SEPAL. Necesitarás registrar una cuenta de Google en GEE.
 
 Para registrarte, sigue este enlace: [https://code.earthengine.google.com](https://code.earthengine.google.com) y selecciona la opción **"Quiero registrar un nuevo proyecto"**.
-
+![Grafico1](img/gee_landing1.webp)
 ## ☁️ Crear un Proyecto de Google Cloud (GCP)
 
 **Atención:** Google Earth Engine ahora requiere conectarse a un proyecto de Google Cloud (GCP). Esta conexión está disponible tanto para uso comercial (de pago) como para fines académicos y de investigación (gratuito).
